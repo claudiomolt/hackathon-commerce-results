@@ -1,0 +1,8 @@
+{
+  "name": "hackathon-commerce-results",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": { "start": "npx serve ." },
+  "description": "Presentación de resultados de publicación de proyectos Hackathon Commerce La Crypta 2026",
+  "license": "MIT"
+}
