@@ -1,0 +1,207 @@
+{
+  "event": {
+    "name": "Hackathon Commerce",
+    "organization": "La Crypta",
+    "edition": 3,
+    "theme": "Commerce",
+    "month": "Mayo 2026",
+    "source": "Inline data in index.html mirrored for documentation/continuity",
+    "scoring": {
+      "judges": [
+        "Gorilatron",
+        "Gorilator",
+        "Claudio"
+      ],
+      "noLivePitchPenalty": -2
+    }
+  },
+  "projects": [
+    {
+      "rank": 1,
+      "name": "Cursats",
+      "team": "Anix · Fred · wder",
+      "score": 8.24,
+      "raw": 8.24,
+      "penalty": 0,
+      "pitch": "77:47",
+      "demo": "sí",
+      "repo": "https://github.com/bitbybit-ar/bitbybit-cursats",
+      "note": "Checkout Lightning para educación: profesores cobran sats o pesos.",
+      "judges": [
+        8.1,
+        8.22,
+        8.39
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "QRWapu",
+      "team": "CapScabio",
+      "score": 7.8,
+      "raw": 7.8,
+      "penalty": 0,
+      "pitch": "97:30",
+      "demo": "sí",
+      "repo": "https://github.com/CapScabio/QRWapu",
+      "note": "POS Lightning simple para comercios con liquidación local.",
+      "judges": [
+        7.15,
+        8.2,
+        8.04
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Zaploop",
+      "team": "Burgos",
+      "score": 7.52,
+      "raw": 7.52,
+      "penalty": 0,
+      "pitch": "86:38",
+      "demo": "sí",
+      "repo": "https://github.com/Burgos247/Zaploop",
+      "note": "Suscripciones recurrentes sobre Lightning, sin custodia.",
+      "judges": [
+        6.39,
+        7.82,
+        8.36
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "wapufy",
+      "team": "Looker",
+      "score": 7.42,
+      "raw": 7.42,
+      "penalty": 0,
+      "pitch": "59:54",
+      "demo": "sí",
+      "repo": "https://github.com/Lo0ker-Noma/wapify",
+      "note": "Ecommerce Lightning + Nostr; Wapu queda como off-ramp opcional.",
+      "judges": [
+        6.18,
+        7.93,
+        8.15
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "tiendita",
+      "team": "negr0",
+      "score": 5.36,
+      "raw": 7.36,
+      "penalty": 2,
+      "pitch": null,
+      "demo": "sí",
+      "repo": "https://github.com/Negr087/tiendita",
+      "note": "Tienda Lightning rápida; buen bruto, penalizada por no pitch.",
+      "judges": [
+        7.21,
+        7.36,
+        7.52
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "hash 21",
+      "team": "Lai ⚡️",
+      "score": 4.95,
+      "raw": 6.95,
+      "penalty": 2,
+      "pitch": null,
+      "demo": "sí",
+      "repo": "https://github.com/warrior-lai/hash-21",
+      "note": "Galería/arte Bitcoin con Lightning; penalizada por no pitch.",
+      "judges": [
+        7.03,
+        7.27,
+        6.54
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "SatTope",
+      "team": "13e700e2…",
+      "score": 4.53,
+      "raw": 4.53,
+      "penalty": 0,
+      "pitch": "69:05",
+      "demo": "no",
+      "repo": "https://github.com/julian2000-code/btcpay-wapu-bridge",
+      "note": "Pitchó, pero sin demo y con repo compartido/duplicado.",
+      "judges": [
+        4.25,
+        3.12,
+        6.22
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "AgendaPu",
+      "team": "Lalo",
+      "score": 4.23,
+      "raw": 6.23,
+      "penalty": 2,
+      "pitch": null,
+      "demo": "sí",
+      "repo": "https://github.com/Lalo1821/agendapu",
+      "note": "Pagos recurrentes just-in-time; metadata incompleta y sin pitch.",
+      "judges": [
+        5.73,
+        6.18,
+        6.79
+      ]
+    },
+    {
+      "rank": 9,
+      "name": "WapuBot",
+      "team": "nic_o",
+      "score": 2.83,
+      "raw": 4.83,
+      "penalty": 2,
+      "pitch": null,
+      "demo": "no",
+      "repo": "https://github.com/landaverdend/WapuBot",
+      "note": "Bot Telegram para WapuPay; falta demo real y pitch.",
+      "judges": [
+        5.21,
+        3.12,
+        6.15
+      ]
+    },
+    {
+      "rank": 10,
+      "name": "BTCpay Wapu Bridge",
+      "team": "13e700e2…",
+      "score": 2,
+      "raw": 4,
+      "penalty": 2,
+      "pitch": null,
+      "demo": "no",
+      "repo": "https://github.com/julian2000-code/btcpay-wapu-bridge",
+      "note": "Bridge BTCPay/Wapu; sin README/demo y sin pitch.",
+      "judges": [
+        4.25,
+        2.27,
+        5.47
+      ]
+    },
+    {
+      "rank": 11,
+      "name": "wpay",
+      "team": "8cce6d96…",
+      "score": 0,
+      "raw": 0,
+      "penalty": 2,
+      "pitch": null,
+      "demo": "no",
+      "repo": "https://github.com/unllamas/wpay",
+      "note": "Repo vacío: no auditable.",
+      "judges": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}
